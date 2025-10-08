@@ -1,0 +1,9 @@
+/* Import font HARUS paling atas */
+@import "tailwindcss";
+
+
+@theme{
+  --font-sora: 'Sora', sans-serif;
+}
+
+/* CSS custom kamu taruh di bawah ini */
